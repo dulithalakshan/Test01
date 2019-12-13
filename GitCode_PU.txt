@@ -1,0 +1,10 @@
+Git Create File and commit
+
+git status
+vim textfile.txt
+Esc -> !wq
+git add textfile.txt
+git status
+git commit -m "file update status"
+git status
+
